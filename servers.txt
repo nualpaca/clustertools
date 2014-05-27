@@ -53,3 +53,9 @@ parkinson-19.wot.eecs.northwestern.edu
 parkinson-20.wot.eecs.northwestern.edu
 parkinson-21.wot.eecs.northwestern.edu
 murphy.wot.eecs.northwestern.edu
+cs.northwestern.edu
+hamsa.cs.northwestern.edu
+netsec-projects.cs.northwestern.edu
+netsec-demos.cs.northwestern.edu
+netsec-playground.cs.northwestern.edu
+netsec-comp.cs.northwestern.edu
