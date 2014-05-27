@@ -39,3 +39,17 @@ robin.eecs.northwestern.edu
 scarecrow.eecs.northwestern.edu
 selina.eecs.northwestern.edu
 twoface.eecs.northwestern.edu
+parkinson-mgmt.wot.eecs.northwestern.edu
+parkinson-10.wot.eecs.northwestern.edu
+parkinson-11.wot.eecs.northwestern.edu
+parkinson-12.wot.eecs.northwestern.edu
+parkinson-13.wot.eecs.northwestern.edu
+parkinson-14.wot.eecs.northwestern.edu
+parkinson-15.wot.eecs.northwestern.edu
+parkinson-16.wot.eecs.northwestern.edu
+parkinson-17.wot.eecs.northwestern.edu
+parkinson-18.wot.eecs.northwestern.edu
+parkinson-19.wot.eecs.northwestern.edu
+parkinson-20.wot.eecs.northwestern.edu
+parkinson-21.wot.eecs.northwestern.edu
+murphy.wot.eecs.northwestern.edu
