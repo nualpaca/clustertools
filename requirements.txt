@@ -1,1 +1,2 @@
 paramiko==1.14.0
+colorama==0.3.1
